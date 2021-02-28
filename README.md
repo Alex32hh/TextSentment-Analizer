@@ -1,4 +1,3 @@
 # Text Sentment Analizer
 
-Este algoritimo detercta o sentimento de um determinado text,Sendo, Bom, Mau ou Neutro.
-Para a Confuguracao Tera de se adicionar o dataset na pasta files, mais os dois scripts.
+Este algoritmo detecta o sentimento de um determinado texto, sendo, Bom, Mau ou Neutro. Para a Configuração Tera de se adicionar o dataset na pasta files, mais os dois scripts.
